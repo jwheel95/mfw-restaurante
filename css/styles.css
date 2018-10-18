@@ -90,6 +90,7 @@
   font-weight: 700;
   z-index: -1;
   position: absolute;
+  bottom: 15px;
   color: rgba(149, 147, 147, 0.2);
 }
 
