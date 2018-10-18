@@ -1,3 +1,32 @@
+
+/* NAVBAR SECTION */
+.nav li a:hover {
+  background-color: transparent;
+}
+
+.navbar-default {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color: rgba(17, 17, .5);
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #fcfcfc;
+  text-shadow: 1px 1px 2px #0a0a0a;
+}
+
+.navbar-default .navbar-nav li a:hover,
+.navbar-default .navbar-nav li a:focus {
+  color: #f8512f;
+  background-color: rgba(17, 17, 17, .2);
+}
+
 /* CAROUSEL SECTION */
 .carousel {
   margin-bottom: 60px;
